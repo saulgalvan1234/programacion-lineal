@@ -1,0 +1,44 @@
+#+title:Programacion lineal
+#+author:Angel Saul Galvan Sahagun
+#+options: H:2
+* Teoria
+** Motivacion
+
+El objetivo de la programacion es maximizar funciones lineales sobre
+dominios convexos, es decir, definidos sobre rengiones dadas por desigualdades.
+[[file:Dibujo_501.jpg]]
+
+** Ejemplos
+
+-El problema de la dieta
+-Optimizacion de lugares en una excursion
+-Escoger objetos optimos para un campamento
+-Maximizacion de medicamento
+** convexidad
+Un conjunto \(X\) es *convexo* si para todos \(x,y\in X\) y
+\(t\in[0,1]\) se tiene que\(tx+(1-ty\in X)\).
+
+** El metodo simplex
+
+* Herramientas computacionales
+
+** emacs
+| C-x c-f         | salvar archivo             |
+| C-x c-f         | abrir archivo              |
+| M-q             | formatear archivo          |
+| C-x d           | editar archivo             |
+| C-g             | salir de todo              |
+| C-x 1           | regresa a una sola pantala |
+| C-x 2           | divide horizontalmente     |
+| C-x 3           | divide verticalmente       |
+| M-w             | copia la region            |
+| C-w             | borra la region            |
+| C-y             | pegar la region            |
+| shift y flechas | selecciona la region       |
+** Git
+*** Github
+*** Github
+** Python
+*** El lenguaje de python
+*** Jupyter
+** LaTex
