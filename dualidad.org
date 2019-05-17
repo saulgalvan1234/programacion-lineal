@@ -20,5 +20,14 @@ considere el siguiente problema:
      \end{aligned}
    \end{aligned}
    \end{equation*}
+-Podemos observar que bajo las restricciones, la funacion objetivo es
+menor que 12, ya que
+\begin{ecuation*}
+2x_{1}+3x$_{2}\leq 4x_{1}+8x_{2}\leq 12.
+\end{ecuation*}
+-siguiente paso...
+- Y el siguiente paso...
+
+
 * teorema
 
