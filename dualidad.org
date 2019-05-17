@@ -1,0 +1,10 @@
+#+title: dualidad
+#+author: saul galvan 
+#+date: 17 mayo 2019
+
+* introduccion
+la dualidad es una manera de asociar un cierto problema de programacion lineal
+* ejemplo
+
+* teorema
+*
